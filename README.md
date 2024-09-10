@@ -9,4 +9,4 @@ This project is divided into separate modules for easy understanding and modular
 
 Technologies: Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 
-Creditsfor the Dataset: https://www.kaggle.com/datasets/yakhyojon/tiktok
+Credits for the Dataset: https://www.kaggle.com/datasets/yakhyojon/tiktok
